@@ -1,0 +1,25 @@
+Product Metrics,,,,,,Process Metrics,,
+Metric Name,Median,IQR,Metric Name,Median,IQR,Metric Name,Median,IQR
+AvgCyclomatic,1,1,CountLine,75.5,150,la,14,38.9
+AvgCyclomaticModified,1,1,CountLineBlank,10.5,20,ld,7.9,12.2
+AvgCyclomaticStrict,1,1,CountLineCode,53,105,lt,92,121.8
+AvgEssential,1,0,CountLineCodeDecl,18,32,age,28.8,35.1
+AvgLine,9,10,CountLineCodeExe,29,66,ddev,2.4,1.2
+AvgLineBlank,0,1,CountLineComment,5,18,nuc,5.8,2.7
+AvgLineCode,7,8,CountSemicolon,24,52,own,0.9,0.1
+AvgLineComment,0,1,CountStmt,35,72.3,minor,0.2,0.4
+CountClassBase,1,0,CountStmtDecl,15,28,ndev,22.6,22.1
+CountClassCoupled,3,4,CountStmtExe,19,43.8,ncomm,71.1,49.5
+CountClassCoupledModified,3,4,MaxCyclomatic,3,4,adev,6.1,2.9
+CountClassDerived,0,0,MaxCyclomaticModified,2,4,nadev,71.1,49.5
+CountDeclClassMethod,0,0,MaxCyclomaticStrict,3,5,avg_nddev,2,1.8
+CountDeclClassVariable,0,1,MaxEssential,1,0,avg_nadev,7,5.2
+CountDeclInstanceMethod,4,7.5,MaxInheritanceTree,2,1,avg_ncomm,7,5.2
+CountDeclInstanceVariable,1,4,MaxNesting,1,2,ns,1,0
+CountDeclMethod,5,9,PercentLackOfCohesion,33,71,exp,348.8,172.7
+CountDeclMethodAll,7,12.5,PercentLackOfCohesionModified,19,62,sexp,145.7,70
+CountDeclMethodDefault,0,0,RatioCommentToCode,0.1,0.2,rexp,2.5,3.4
+CountDeclMethodPrivate,0,1,SumCyclomatic,8,17,nd,1,0
+CountDeclMethodProtected,0,0,SumCyclomaticModified,8,17,sctr,-0.2,0.1
+CountDeclMethodPublic,3,6,SumCyclomaticStrict,9,18,,,
+,,,SumEssential,6,11,,,

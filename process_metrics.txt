@@ -1,0 +1,22 @@
+How-and Why vs Commit_Guru process metrics
+Comm – nuc
+ADEV – X
+DDEV – ndev
+ADD – la
+DEL – ld
+OWN – X
+MINOR – X
+SCTR – entropy
+NCDEV – X
+NDDEV –X
+NCOMM –X
+NSCTR –X
+OEXP – X
+EXP – exp
+X – lt
+X – nf
+X – ns
+X – nd
+X – age
+X – rexp
+X – sexp
