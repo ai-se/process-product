@@ -1,0 +1,10 @@
+repo_name,repo_owner,git_url,api_base_url,source_type,access_token,lang,commits,defective
+samourai-wallet-android,Samourai-Wallet,https://github.com/Samourai-Wallet/samourai-wallet-android,http://api.github.com,github_repo,,Java,2626,271
+jbehave-core,jbehave,https://github.com/jbehave/jbehave-core,http://api.github.com,github_repo,,Java,2402,273
+pushy,relayrides,https://github.com/relayrides/pushy,http://api.github.com,github_repo,,Java,1454,274
+boon,boonproject,https://github.com/boonproject/boon,http://api.github.com,github_repo,,Java,962,274
+spring-data-solr,spring-projects,https://github.com/spring-projects/spring-data-solr,http://api.github.com,github_repo,,Java,858,276
+javassist,jboss-javassist,https://github.com/jboss-javassist/javassist,http://api.github.com,github_repo,,Java,918,276
+spock,spockframework,https://github.com/spockframework/spock,http://api.github.com,github_repo,,Java,2589,277
+PageTurner,NightWhistler,https://github.com/NightWhistler/PageTurner,http://api.github.com,github_repo,,Java,1262,278
+heroic,spotify,https://github.com/spotify/heroic,http://api.github.com,github_repo,6ff783294993b2f3c1d44506883d62f52ff91f80,Java,1216,279
